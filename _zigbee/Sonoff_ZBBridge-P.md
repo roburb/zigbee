@@ -19,6 +19,7 @@ Once flashed, follow the coordinator firmware flashing Instructions from NotEnou
 [Flashing coordinator firmware by NotEnoughTech](https://notenoughtech.com/home-automation/tasmota-on-sonoff-zb-bridge-pro/#flash)
 
 [Tasmota GitHub Discussion](https://github.com/arendst/Tasmota/discussions/14419)
+[Router mode GitHub Discusion](https://github.com/arendst/Tasmota/discussions/16957)
 
 ## For Home Assistant (ZHA or Zigbee2MQTT)
 This mode creates a TCP bridge from the zigbee module to Home Assistant or Zigbee2MQTT. In this case Tasmota is only relaying all the messages from the zigbee module and **you cannot use any Zigbee commands in Tasmota console in this mode. All setup needs to be done from the Home Assistant ZHA integration or.**
